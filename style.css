@@ -72,9 +72,9 @@ content: 'Hours';
 }
 
 #min::after {
-  content: 'Minutes';
+  content: 'Minutess';
 }
 
 #sec::after {
-  content: 'S econds';
+  content: 'Seconds';
 }
