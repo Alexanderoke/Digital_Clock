@@ -78,3 +78,15 @@ content: 'Hours';
 #sec::after {
   content: 'Seconds';
 }
+
+
+#milisecs{
+  font-size: 40px;
+  bottom: -25px;
+  transform: translate(-20%)
+}
+
+#milisecs::after {
+  content: 'milliseconds';
+
+}
